@@ -1,6 +1,6 @@
 {
   "name": "@filway-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "filway-cli core",
   "author": "filway <filway@126.com>",
   "homepage": "",
@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "400dc6412fc557bbae4caa4b41ba6f8364cf5217"
+  "gitHead": "400dc6412fc557bbae4caa4b41ba6f8364cf5217",
+  "publishConfig": {
+    "access": "public"
+  }
 }
