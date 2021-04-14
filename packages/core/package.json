@@ -1,6 +1,6 @@
 {
   "name": "@filway-cli/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "filway-cli core",
   "author": "filway <filway@126.com>",
   "homepage": "",
@@ -22,7 +22,5 @@
   "gitHead": "400dc6412fc557bbae4caa4b41ba6f8364cf5217",
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
   }
 }
