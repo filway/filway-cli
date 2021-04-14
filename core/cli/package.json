@@ -1,0 +1,41 @@
+{
+  "name": "@filway-cli/core",
+  "version": "1.0.5",
+  "description": "filway-cli core",
+  "author": "filway <filway@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "",
+  "bin": {
+    "filway-cli": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@filway-cli/exec": "file:../exec",
+    "@filway-cli/get-npm-info": "file:../../utils/get-npm-info",
+    "@filway-cli/init": "file:../../commands/init",
+    "@filway-cli/log": "file:../../utils/log",
+    "colors": "^1.4.0",
+    "commander": "^6.2.1",
+    "dotenv": "^8.2.0",
+    "import-local": "^3.0.2",
+    "npmlog": "^4.1.2",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.4",
+    "user-home": "^2.0.0"
+  },
+  "gitHead": "400dc6412fc557bbae4caa4b41ba6f8364cf5217",
+  "publishConfig": {
+    "access": "public"
+  }
+}
