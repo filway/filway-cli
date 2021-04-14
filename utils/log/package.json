@@ -1,6 +1,6 @@
 {
   "name": "@filway-cli/log",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "filway-cli log",
   "keywords": [
     "log"
