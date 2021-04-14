@@ -22,5 +22,7 @@
   "gitHead": "400dc6412fc557bbae4caa4b41ba6f8364cf5217",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
   }
 }
