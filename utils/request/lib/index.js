@@ -3,7 +3,7 @@
 const axios = require('axios');
 
 const BASE_URL = process.env.FILWAY_CLI_BASE_URL ? process.env.FILWAY_CLI_BASE_URL :
-  'http://filway.cn:7001';
+  'http://cli.filway.cn:7001';
 
 const request = axios.create({
   baseURL: BASE_URL,
