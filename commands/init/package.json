@@ -1,6 +1,6 @@
 {
   "name": "@filway-cli/init",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "filway-cli init command",
   "keywords": [
     "init",
